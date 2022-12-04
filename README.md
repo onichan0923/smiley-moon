@@ -25,10 +25,6 @@
   - 不推荐：编程代码等。
 - 有问题请在[酷安](http://www.coolapk.com/u/2741201)反馈，时间允许的情况下，能力之内的问题会尽量修 qwq
   
-## 许可证
-
-本字体的发布遵守 [SIL Open Font License v1.1](LICENSE)。
-
 ---
 
 Copyright &copy; 2022 by 銀河鉄道の鬼鬼ちゃん.
