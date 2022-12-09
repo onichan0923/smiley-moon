@@ -10,10 +10,10 @@
 
 ## 修改过程
 
-- 加宽并进行适当调整，用于提高可读性；
-- 补入经过调整的腾讯体，用于显示繁体字、日文新字体等更多汉字；
+- 加宽并进行适当调整，以提高可读性；
+- 补入经过调整的[思源黑体](https://github.com/adobe-fonts/source-han-sans)部分字符，用于显示繁体字、日文新字体等更多汉字；
 - 补入经过调整的 IBM Plex Sans KR，用于显示谚文；
-- 补入经过调整的[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)部分字符，用于显示 CJK 基本区、扩展 A 区剩余汉字、「𰻝」「𰻞」二字以及变体假名；
+- 补入经过调整的[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)部分字符，用于显示 CJK 基本区、扩展区更多汉字、女书、契丹小字以及变体假名；
 - 机械减淡字体，以获得 Regular 与 Light 字重；
 - 调整[遍黑体](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic)，使其与斜月体搭配使用时更为协调。
 
@@ -25,6 +25,10 @@
   - 不推荐：编程代码等。
 - 有问题请在[酷安](http://www.coolapk.com/u/2741201)反馈，时间允许的情况下，能力之内的问题会尽量修 qwq
   
+## 许可证
+
+本字体的发布遵守 [SIL Open Font License v1.1](LICENSE)。
+
 ---
 
 Copyright &copy; 2022 by 銀河鉄道の鬼鬼ちゃん.

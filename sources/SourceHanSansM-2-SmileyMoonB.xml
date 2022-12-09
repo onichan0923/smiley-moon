@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+  <TransformScript>
+    <OutlineSkew>
+      <AroundType>0</AroundType>
+      <AroundCorner>0</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal3>8.00</Horizontal3>
+      <Vertical3>0.00</Vertical3>
+    </OutlineSkew>
+    <OutlineScale>
+      <AroundType>0</AroundType>
+      <AroundCorner>0</AroundCorner>
+      <AroundXPos>0</AroundXPos>
+      <AroundYPos>0</AroundYPos>
+      <Horizontal>93.00</Horizontal>
+      <Vertical>103.00</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+    </OutlineScale>
+    <MetricsCenterGlyph>
+    </MetricsCenterGlyph>
+    <OutlineMove>
+      <Horizontal>0</Horizontal>
+      <Vertical>20</Vertical>
+    </OutlineMove>
+    <EffectsBold>
+      <Horizontal>9</Horizontal>
+      <Vertical>4</Vertical>
+      <PreserveBearings>FALSE</PreserveBearings>
+      <UpdateMetrics>FALSE</UpdateMetrics>
+    </EffectsBold>
+  </TransformScript>
+</DATA>
